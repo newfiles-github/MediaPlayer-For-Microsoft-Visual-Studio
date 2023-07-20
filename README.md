@@ -6,7 +6,7 @@
 2. 深浅模式。
 ---
 ### English
-This is a very garbage media player, developed based on the ~~powerful~~ Windows Media Player kernel, currently v2.0.
+This is a very garbage media player, developed based on the ~~powerful~~ Windows Media Player kernel, currently v2.0.  
 Function:  
 1. Play the video.
 2. Shallow and Dark Mode.
