@@ -1,0 +1,18 @@
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\MediaPlayer For Microsoft Visual Studio.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\MediaPlayer For Microsoft Visual Studio.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\Interop.WMPLib.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\AxInterop.WMPLib.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\MediaPlayer For Microsoft Visual Studio.csproj.ResolveComReference.cache
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MediaPlayer.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.欢迎.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\MediaPlayer For Microsoft Visual Studio.csproj.GenerateResource.cache
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\MediaPlayer For Microsoft Visual Studio.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.列表.resources
