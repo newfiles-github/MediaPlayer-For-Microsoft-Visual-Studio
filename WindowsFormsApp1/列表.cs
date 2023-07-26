@@ -12,11 +12,10 @@ namespace WindowsFormsApp1
 {
     public partial class 列表 : Form
     {
-        列表 s;
+        public static View s = View.List;
         public 列表()
         {
             InitializeComponent();
-            s = this;
         }
 
         private void List_Load(object sender, EventArgs e)
@@ -28,12 +27,32 @@ namespace WindowsFormsApp1
         {
             
         }
-        public void UpData(string[] x)
+        public void UpData(string[] x, string[] z, int y)
         {
-            for(int i=0; i<x.Length; i++)
+            for(int i=0; i<y; i++)
             {
-                this.listView1.Items.Add(x[i]);
+                this.listView1.Items.Add(x[i] + " " + z[i]);
             }
+        }
+
+        private void 详细信息ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void 列表ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.listView1.View = View.List;
+            s=View.List;
+        }
+        public void See()
+        {
+            this.listView1.View = s;
+        }
+
+        private void 平铺ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this.listView1.View = View.LargeIcon;
         }
     }
 }

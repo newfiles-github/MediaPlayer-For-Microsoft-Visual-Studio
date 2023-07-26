@@ -16,3 +16,9 @@ C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio
 C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.列表.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\en-GG\WindowsFormsApp1.resources.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\bin\Debug\en-GU\WindowsFormsApp1.resources.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MediaPlayer.en-GG.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MediaPlayer.en-GU.resources
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\en-GG\WindowsFormsApp1.resources.dll
+C:\Program Files (x86)\Carry Corporation\MeidaPlayer For Microsoft Visual Studio\WindowsFormsApp1\obj\Debug\en-GU\WindowsFormsApp1.resources.dll

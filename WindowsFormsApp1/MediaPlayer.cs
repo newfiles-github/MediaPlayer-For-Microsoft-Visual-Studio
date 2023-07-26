@@ -13,6 +13,7 @@ namespace WindowsFormsApp1
     public partial class MediaPlayer : Form
     {
         public static string[] text = new string[10000];
+        public static string[] time = new string[10000];
         public static int i = 0;
         public MediaPlayer()
         {
@@ -28,9 +29,10 @@ namespace WindowsFormsApp1
             this.axWindowsMediaPlayer1.URL = textBox1.Text;
             this.axWindowsMediaPlayer1.Ctlcontrols.play();
             text[i] = textBox1.Text;
+            time[i] = DateTime.Now.ToString();
             i++;
             列表 s = new 列表();
-            s.UpData(text);
+            s.UpData(text, time, i);
         }
 
 
@@ -73,9 +75,10 @@ namespace WindowsFormsApp1
         private void 查看ToolStripMenuItem_Click(object sender, EventArgs e)
         {
             列表 s=new 列表();
-            if (i == 0) ;
-            else s.UpData(text);
+            s.See();
+            if (i != 0) s.UpData(text, time, i);
             s.Show();
         }
+
     }
 }

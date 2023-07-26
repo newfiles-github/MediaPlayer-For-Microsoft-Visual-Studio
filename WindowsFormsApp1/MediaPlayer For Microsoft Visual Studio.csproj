@@ -66,6 +66,12 @@
     </Compile>
     <Compile Include="WindowMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MediaPlayer.en-GG.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MediaPlayer.en-GU.resx">
+      <DependentUpon>MediaPlayer.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="列表.resx">
       <DependentUpon>列表.cs</DependentUpon>
     </EmbeddedResource>
