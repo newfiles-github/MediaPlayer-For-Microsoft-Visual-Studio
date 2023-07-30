@@ -20,7 +20,8 @@ namespace WindowsFormsApp1
 
         private void List_Load(object sender, EventArgs e)
         {
-
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
         }
 
         private void listView1_SelectedIndexChanged(object sender, EventArgs e)

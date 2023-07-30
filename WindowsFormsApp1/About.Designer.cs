@@ -40,7 +40,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.White;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(227, -7);
+            this.pictureBox1.Location = new System.Drawing.Point(252, -7);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(186, 166);
             this.pictureBox1.TabIndex = 0;
@@ -51,12 +51,12 @@
             this.richTextBox1.BackColor = System.Drawing.Color.White;
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.richTextBox1.Font = new System.Drawing.Font("微软雅黑", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.richTextBox1.Location = new System.Drawing.Point(74, 165);
+            this.richTextBox1.Location = new System.Drawing.Point(205, 165);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.ReadOnly = true;
             this.richTextBox1.Size = new System.Drawing.Size(644, 64);
             this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "MediaPlayer For Microsoft Visual Studio";
+            this.richTextBox1.Text = "Microsoft VS Player";
             this.richTextBox1.TextChanged += new System.EventHandler(this.richTextBox1_TextChanged);
             // 
             // button1
@@ -72,11 +72,11 @@
             // textBox1
             // 
             this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Location = new System.Drawing.Point(212, 236);
+            this.textBox1.Location = new System.Drawing.Point(189, 235);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(291, 14);
+            this.textBox1.Size = new System.Drawing.Size(328, 14);
             this.textBox1.TabIndex = 3;
-            this.textBox1.Text = "Version 3.0,Carry Corporation 2023,保留所有权利";
+            this.textBox1.Text = "Version 3.2,Carry Corporation 2023,All rights reserved.";
             // 
             // 欢迎
             // 
@@ -89,7 +89,7 @@
             this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.pictureBox1);
             this.Name = "欢迎";
-            this.Text = "关于";
+            this.Text = "About";
             this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
