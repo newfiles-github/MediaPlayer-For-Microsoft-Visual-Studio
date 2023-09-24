@@ -1,6 +1,6 @@
 # Microsoft VS Player
 ### 中文  
-这是一个很垃圾的媒体播放器，基于~~强大的~~Windows Media Player内核开发，目前版本v3.1。  
+这是一个很垃圾的媒体播放器，基于~~强大的~~Windows Media Player内核开发，目前版本v3.2。  
 功能：  
 1. 播放视频。
 2. 深浅模式。
